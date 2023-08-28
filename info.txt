@@ -1,0 +1,5 @@
+to open in chrome
+http://localhost/pro1/
+
+to open php my admin
+http://localhost/phpmyadmin/
